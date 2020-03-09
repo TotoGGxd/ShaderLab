@@ -6,6 +6,7 @@ Shader"Custom/SDNormalStrength"
         _MainTex("Main Texture" , 2D) = "white"{}
         _NormalTex("Normal Texture" , 2D) = "bump"{}
         _NormalStrength("Normal Strength" , Range(-5,5)) = 1
+
     }
 
     SubShader
